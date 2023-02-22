@@ -1,7 +1,7 @@
 .title {
   font-family: "Architects Daughter", monospace;
   font-size: 4em;
-  color: #FFFFFF;
+  color: #FA8128;
   text-align: center;
 }
 .navbar {
@@ -17,7 +17,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 30px;
 }
 
 /* Change the color of links on hover */
@@ -32,6 +32,7 @@
 body {
   background: linear-gradient(#FAC898, #FFA809);
   background-repeat: no-repeat;
+  font-family: "Architects Daughter", monospace;
 }
 h2 {
   text-align: center;
@@ -53,12 +54,10 @@ p {
 h3 {
   font-size: 1.5em;
   text-align: center;
-  font-family: "Architects Daughter", monospace;
 }
 h4 {
   font-size: 1.5em;
   text-align: left;
-  font-family: "Architects Daughter", monospace;
   margin-left: 3em;
 }
 img {
@@ -66,9 +65,19 @@ img {
   height: auto;
 }
 .contacts img {
-  width: 10em;
-  height: 10em;
-  border-radius: 50%;
-  border: 3px solid black;
-  margin-left: 5em;
+  width: 180px;
+  height: 180px;
+}
+
+.contacts p {
+  font-size: 20px;
+}
+.wip-page p{
+  font-size: 30px;
+}
+.index-page {
+  font-size: 20px;
+}
+footer {
+  background-color: #964B00;
 }
