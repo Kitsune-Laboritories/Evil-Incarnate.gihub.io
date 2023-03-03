@@ -10,7 +10,7 @@ class Navbar extends HTMLElement {
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
     
-    <a class="navbar-brand logo mx-5" href="Home.html"></a>
+    <a class="navbar-brand logo mx-5" href="index.html"></a>
     
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -18,7 +18,7 @@ class Navbar extends HTMLElement {
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav mx-auto mb-2 mb-lg-0" style="background-color: white">
         <li class="nav-item">
-          <a class="nav-link active" href="Home.html">home</a>
+          <a class="nav-link active" href="index.html">home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="Updates.html">updates</a>
