@@ -5,13 +5,10 @@ class Navbar extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-  
     
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-    
-    <a class="navbar-brand logo mx-5" href="Home.html"></a>
-    
+    <a class="navbar-brand mx-5" style="width: 70px;" href="Home.html"><img src="img/logo.png"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
