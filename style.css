@@ -91,6 +91,7 @@ hr {
 }
 .line {
   text-decoration: line-through;
+  font-family: "Quicksand", monospace;
 }
 dl.row{
   margin-bottom: 0;
