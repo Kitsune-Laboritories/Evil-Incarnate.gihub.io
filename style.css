@@ -1,65 +1,75 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
 .title {
-  font-family: "Architects Daughter", monospace;
+  font-family: "Quicksand", monospace;
   font-size: 4em;
-  color: #FA8128;
+  color: #FD6B70;
   text-align: center;
 }
-.navbar {
-  background-color: #964B00;
+.navbar{
   overflow: hidden;
-  margin: 0px 2em 0px 2em;
+  background-color: transparent !important;
 }
 
 /* Style the links inside the navigation bar */
 .navbar a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 30px;
+  color: #003370;
+  padding: 7px 8px;
+  font-size: 16px;
 }
 
 /* Change the color of links on hover */
 .navbar a:hover {
-  background-color: #ddd;
-  color: black;
+  color: #FD6B70;
+  text-decoration: underline;
 }
-.navbar a.active {
-  background-color: #04AA6D;
-  color: white;
-}
+
 body {
-  background: linear-gradient(#FAC898, #FFA809);
-  background-repeat: no-repeat;
-  font-family: "Architects Daughter", monospace;
+  background-color: whitesmoke;
+  font-family: "Quicksand", monospace;
 }
+h1 {
+  text-align: center;
+  font-family: "Shrikhand", monospace;
+  font-size: 7em !important;
+}
+
 h2 {
   text-align: center;
-  font-family: "Architects Daughter", monospace;
+  font-family: "Shrikhand", monospace;
   font-size: 3em;
 }
+h3 {
+  font-family: "Shrikhand", monospace;
+  font-size: 1em;
+  text-align: center;
+}
+h4 {
+  font-family: "Quicksand", monospace;
+  font-size: 1.1em;
+  font-weight: bolder;
+  text-align: center;
+}
+
 p {
   text-align: left;
-  font-family: "Architects Daughter", monospace;
-  font-size: 1em;
-  margin: 1em 4em 1em 4em;
+  font-family: "Quicksand", monospace;
+  font-size: 12px;
 }
+
+.play{
+  transform: rotate(-90deg);
+  transform-origin: 12rem 10rem;
+}
+
 .concept , .wip{
+
   margin: auto;
   margin-right: 2em;
   margin-left: 2em;
   column-count: 2;
 }
-h3 {
-  font-size: 1.5em;
-  text-align: center;
-}
-h4 {
-  font-size: 1.5em;
-  text-align: left;
-  margin-left: 3em;
-}
+
 img {
   width: 100%;
   height: auto;
@@ -69,15 +79,22 @@ img {
   height: 180px;
 }
 
-.contacts p {
+#index {
   font-size: 20px;
+  background-color: #003370;
+  text-align: center
 }
-.wip-page p{
-  font-size: 30px;
+hr {
+  height:2px;
+  border-width:0;
+  background-color: #003370;
 }
-.index-page {
-  font-size: 20px;
+.line {
+  text-decoration: line-through;
+}
+dl.row{
+  margin-bottom: 0;
 }
 footer {
-  background-color: #964B00;
+  background-color: #17629F;
 }
