@@ -9,7 +9,7 @@ class Update2 extends HTMLElement {
       
     <div class="card mb-5">
       <div class="row justify-content-md-center my-2">
-        <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
+        <div class="overflow-auto col-lg-6 mx-0" style="height: 250px">
 
           <ul class="list-group list-group-flush my-0 py-0">
             <li class="list-group-item">
@@ -59,7 +59,7 @@ class Update2 extends HTMLElement {
 
         </div>
         
-        <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
+        <div class="overflow-auto col-lg-6 mx-0" style="height: 250px">
           <img src="img/maya_barrel.jpg" class="w-100">
           <img src="img/Maya_Tree.jpg" class="w-100">
           <img src="img/island.png" class="w-100">

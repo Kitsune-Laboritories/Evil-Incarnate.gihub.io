@@ -6,7 +6,7 @@ class Anthony extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       
-      <div class="row justify-content-md-center mt-3">
+      <div class="row justify-content-md-center">
       
       <div class="col-sm-3">
       <a class="nav-link" href="https://github.com/AnthonyGantner">
