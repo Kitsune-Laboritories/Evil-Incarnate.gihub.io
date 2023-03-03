@@ -33,9 +33,9 @@ class Header extends HTMLElement {
       <header>
         <nav>
           <ul>
-            <li><a href="../Pages/about.html">About</a></li>
+            <li><a href="../about.html">About</a></li>
             <li><a href="work.html">Work</a></li>
-            <li><a href="../Pages/contact.html">Contact</a></li>
+            <li><a href="../contact.html">Contact</a></li>
           </ul>
         </nav>
       </header>
