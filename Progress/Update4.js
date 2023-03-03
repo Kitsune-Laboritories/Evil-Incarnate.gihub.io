@@ -9,7 +9,7 @@ class Update4 extends HTMLElement {
       
     <div class="card mb-5">
       <div class="row justify-content-md-center my-2">
-        <div class="overflow-auto col-lg-6 mx-0" style="height: 250px">
+        <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
 
           <ul class="list-group list-group-flush my-0 py-0">
             <li class="list-group-item">
@@ -59,7 +59,7 @@ class Update4 extends HTMLElement {
 
         </div>
         
-        <div class="overflow-auto col-lg-6 mx-0" style="height: 250px">
+        <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
         <img src="img/plant.jpg" class="w-100">
         <img src="img/obj_interact.png" class="w-100">
         <video class="img-fluid" autoplay loop muted>

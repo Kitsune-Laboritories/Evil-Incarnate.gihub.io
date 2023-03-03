@@ -107,9 +107,9 @@ url('img/updateHeader.jpg');
 
 }
 hr {
-  height:2px;
+  height:1px;
   border-width:0;
-  background-color: #003370;
+  background-color: grey;
 }
 .line {
   text-decoration: line-through;
@@ -168,4 +168,22 @@ footer {
 .icon_dark:hover {
   color: #FD6B70;
   width: 50px;
+}
+
+.home {
+  background-image: url('img/sketch.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.team {
+  width: 85%;
+  writing-mode: vertical-rl;
+  position: absolute;
+  color: transparent;
+  font-size: 2em;
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: #FD6B70;
+  margin-left: 20px;
+
 }
