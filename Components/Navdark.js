@@ -1,18 +1,17 @@
-class Navbar extends HTMLElement {
+class Navdark extends HTMLElement {
   constructor() {
     super();
   }
 
   connectedCallback() {
     this.innerHTML = `
-  
     
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
     
-    <a class="navbar-brand logo mx-5" href="Home.html"></a>
+    <a class="navbar-brand logo_dark mx-5" href="Home.html"></a>
     
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
@@ -31,7 +30,7 @@ class Navbar extends HTMLElement {
         </li>
       </ul>
       <span class="navbar-text mx-5">
-        <a class="nav-link" href="https://github.com/Kitsune-Laboritories"><h2 class="bi bi-github" style="width: 50px;"></h2></a>
+        <a class="nav-link" href="https://github.com/Kitsune-Laboritories"><h2 class="bi bi-github icon_dark"></h2></a>
       </span>
     </div>
   </div>
@@ -40,4 +39,4 @@ class Navbar extends HTMLElement {
   }
 }
 
-customElements.define('navbar-component', Navbar);
+customElements.define('navdark-component', Navdark);
