@@ -11,7 +11,7 @@ class Example extends HTMLElement {
   }
 }
 
-customElements.define('example', Example);
+customElements.define('example-component', Example);
 
 /* ON HTML PAGE
  <head>
@@ -19,7 +19,7 @@ customElements.define('example', Example);
  </head>
 
  <body>
-  <example></example>
+  <example-component></example-component>
  </body>
 
  */
