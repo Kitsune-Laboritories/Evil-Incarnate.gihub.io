@@ -21,19 +21,19 @@ class Raymond extends HTMLElement {
         
         <dl class="row">
                 <dt class="col-sm-2">Email:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">rlai@hawaii.edu</dd>
                 
                 <dt class="col-sm-2">Major:</dt>
                 <dd class="col-sm-9">Information and Computer Science</dd>
                 
                 <dt class="col-sm-2">Year:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Senior</dd>
                 
                 <dt class="col-sm-2">Favorite Games:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Minecraft, Sea of Thieves and Runescape</dd>
                 
                 <dt class="col-sm-2">Hobby:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Watching Anime, Reading Light novels and Manga and Gaming</dd>
               </dl>
         
       </div>
