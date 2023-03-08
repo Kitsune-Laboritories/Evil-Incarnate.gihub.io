@@ -28,9 +28,9 @@ class Update5 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/malialiu.png" style="width: 25px">Malia</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">Updated player controls and camera</dd>
+                <dd class="col-sm-9">Updated player controls and camera. Created a scoring system.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">Scoring system.</dd>
+                <dd class="col-sm-9">TBD</dd>
               </dl>
             </li>
 
