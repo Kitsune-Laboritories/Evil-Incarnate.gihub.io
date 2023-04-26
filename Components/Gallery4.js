@@ -18,7 +18,7 @@ class Gallery4 extends HTMLElement {
           <div class="col-6 mb-3"><img src="img/Hint1.png" class="w-100"></div>
           <div class="col-6 mb-3"><img src="img/Hint2.png" class="w-100"></div>
           <div class="col-6 mb-3"><img src="img/Hint3.png" class="w-100"></div>
-          <div class="col-6 mb-3"><img src="img/Hint4.png" class="w-100"></div>
+          <div class="col-6 mb-3"><img src="img/Hintt4.png" class="w-100"></div>
           <div class="col-6 mb-3"><img src="img/Hint5.png" class="w-100"></div>
           <div class="col-6 mb-3"><img src="img/Hint6.png" class="w-100"></div>
         </div>
