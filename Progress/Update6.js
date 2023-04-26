@@ -17,9 +17,9 @@ class Update6 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/AnthonyGantner.png" style="width: 25px">Anthony</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Added 3d objects and animation</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Create more objects for the store</dd>
               </dl>
             </li>
 
@@ -28,9 +28,9 @@ class Update6 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/malialiu.png" style="width: 25px">Malia</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Created game's scoring system, updated camera settings and player controller and fixed colliders.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Update player controls.</dd>
               </dl>
             </li>
 
@@ -39,9 +39,9 @@ class Update6 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/tineriver.png" style="width: 25px">Kristine</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Added a paused menu, added a timer, player name feature, and game over scene.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">TBD</dd>
               </dl>
             </li>
 
@@ -52,7 +52,7 @@ class Update6 extends HTMLElement {
                <dt class="col-sm-2">Done:</dt>
                <dd class="col-sm-9">...</dd>
                <dt class="col-sm-2">To Do:</dt>
-               <dd class="col-sm-9">...</dd>
+               <dd class="col-sm-9">TBD</dd>
              </dl>
            </li>
           </ul>
@@ -60,11 +60,11 @@ class Update6 extends HTMLElement {
         </div>
         
         <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
-        <img src="img/StoreSketch.jpg" class="w-100">
-        <img src="img/Store.jpg" class="w-100">
-        <video class="img-fluid" autoplay loop muted>
-                  <source src="https://cdn.discordapp.com/attachments/1075161091656663080/1082967378280857621/PickUp.mp4" type="video/mp4" />
-                </video>
+        <img src="img/Refrigerator.jpg" class="w-100">
+        <img src="img/scoringsystem.png" class="w-100">
+        <img src="img/store_set_up.jpg" class="w-100">
+        <img src="img/Store_Shelf.jpg" class="w-100">
+        
                 
         </div>
        

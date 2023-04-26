@@ -17,9 +17,9 @@ class Update10 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/AnthonyGantner.png" style="width: 25px">Anthony</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Added chest objects and added more items in the store.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Create objects for a 3d platformer game.</dd>
               </dl>
             </li>
 
@@ -28,9 +28,9 @@ class Update10 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/malialiu.png" style="width: 25px">Malia</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Creating auto moving script for cars in the city and added sound effects.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Create features for 3d platformer game.</dd>
               </dl>
             </li>
 
@@ -39,9 +39,9 @@ class Update10 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/tineriver.png" style="width: 25px">Kristine</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Created intro storyboard scene. Updated menu script and added fire particle effects. </dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Change game to a 3d platformer.</dd>
               </dl>
             </li>
 
@@ -50,9 +50,9 @@ class Update10 extends HTMLElement {
                <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/rhlai.png" style="width: 25px">Raymond</dt>
                <dd class="col-sm-2"></dd>
                <dt class="col-sm-2">Done:</dt>
-               <dd class="col-sm-9">...</dd>
+               <dd class="col-sm-9">Tested player movement controls and added fixed mouse cursor code.</dd>
                <dt class="col-sm-2">To Do:</dt>
-               <dd class="col-sm-9">...</dd>
+               <dd class="col-sm-9">Update camera settings</dd>
              </dl>
            </li>
           </ul>
@@ -60,12 +60,11 @@ class Update10 extends HTMLElement {
         </div>
         
         <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
-        <img src="img/StoreSketch.jpg" class="w-100">
-        <img src="img/Store.jpg" class="w-100">
-        <video class="img-fluid" autoplay loop muted>
-                  <source src="https://cdn.discordapp.com/attachments/1075161091656663080/1082967378280857621/PickUp.mp4" type="video/mp4" />
-                </video>
-                
+        <img src="img/chest.jpg" class="w-100">
+        <img src="img/backnforth.png" class="w-100">
+        <img src="img/fire.png" class="w-100">
+        <img src="img/player_controls.png" class="w-100">
+       
         </div>
        
       </div>     

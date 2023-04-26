@@ -17,9 +17,9 @@ class Update12 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/AnthonyGantner.png" style="width: 25px">Anthony</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Video Game Trailer and powerpoint slides</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Create a better title image.</dd>
               </dl>
             </li>
 
@@ -28,9 +28,9 @@ class Update12 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/malialiu.png" style="width: 25px">Malia</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Powerpoint presentation slides. Created nine lives script. Fixed detect distance script, added sound effects and fixed bugs.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Fix bugs and typos.</dd>
               </dl>
             </li>
 
@@ -39,9 +39,9 @@ class Update12 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/tineriver.png" style="width: 25px">Kristine</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Hid key in the city and added animations. Created an intro scene for the city, and added a hint window feature.</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">...</dd>
+                <dd class="col-sm-9">Fix bugs, typos and create barriers in the city scene.</dd>
               </dl>
             </li>
 
@@ -50,9 +50,9 @@ class Update12 extends HTMLElement {
                <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/rhlai.png" style="width: 25px">Raymond</dt>
                <dd class="col-sm-2"></dd>
                <dt class="col-sm-2">Done:</dt>
-               <dd class="col-sm-9">...</dd>
+               <dd class="col-sm-9">Added click and drag camera feature.</dd>
                <dt class="col-sm-2">To Do:</dt>
-               <dd class="col-sm-9">...</dd>
+               <dd class="col-sm-9">Fix bugs.</dd>
              </dl>
            </li>
           </ul>
@@ -60,11 +60,10 @@ class Update12 extends HTMLElement {
         </div>
         
         <div class="overflow-auto col-lg-6 mx-0" style="height: 400px">
-        <img src="img/StoreSketch.jpg" class="w-100">
-        <img src="img/Store.jpg" class="w-100">
-        <video class="img-fluid" autoplay loop muted>
-                  <source src="https://cdn.discordapp.com/attachments/1075161091656663080/1082967378280857621/PickUp.mp4" type="video/mp4" />
-                </video>
+        <img src="img/powerpoint.png" class="w-100">
+        <img src="img/video.jpg" class="w-100">
+        <img src="img/HintWindow.png" class="w-100">
+        
                 
         </div>
        
