@@ -10,7 +10,7 @@ class Anthony extends HTMLElement {
       
       <div class="col-sm-3">
       <a class="nav-link" href="https://github.com/AnthonyGantner">
-      <img class="image-fluid rounded-circle w-10" src="https://github.com/AnthonyGantner.png">
+      <img class="image-fluid rounded-circle w-10" src="https://cdn.discordapp.com/attachments/1065449889481375767/1100904366950588537/Screenshot_20230425_141303_Facebook_1.jpg">
       </a>
         
       </div>
