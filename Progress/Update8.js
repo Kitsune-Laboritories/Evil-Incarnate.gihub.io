@@ -1,5 +1,5 @@
-class Update5 extends HTMLElement {
-  //FOR CHANGES AS OF 03.08.2023
+class Update8 extends HTMLElement {
+  //FOR CHANGES AS OF 03.29.2023
   constructor() {
     super();
   }
@@ -17,9 +17,9 @@ class Update5 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/AnthonyGantner.png" style="width: 25px">Anthony</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">Created rough draft of a store</dd>
+                <dd class="col-sm-9">...</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">Create assets for the store.</dd>
+                <dd class="col-sm-9">...</dd>
               </dl>
             </li>
 
@@ -28,9 +28,9 @@ class Update5 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/malialiu.png" style="width: 25px">Malia</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">Updated player controls and camera. Created a scoring system.</dd>
+                <dd class="col-sm-9">...</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">TBD</dd>
+                <dd class="col-sm-9">...</dd>
               </dl>
             </li>
 
@@ -39,9 +39,9 @@ class Update5 extends HTMLElement {
                 <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/tineriver.png" style="width: 25px">Kristine</dt>
                 <dd class="col-sm-2"></dd>
                 <dt class="col-sm-2">Done:</dt>
-                <dd class="col-sm-9">Created interactible objects</dd>
+                <dd class="col-sm-9">...</dd>
                 <dt class="col-sm-2">To Do:</dt>
-                <dd class="col-sm-9">Possibly scale down world to a store.</dd>
+                <dd class="col-sm-9">...</dd>
               </dl>
             </li>
 
@@ -50,9 +50,9 @@ class Update5 extends HTMLElement {
                <dt class="col-sm-9"><img class="image-fluid rounded-circle mx-2 h4" src="https://github.com/rhlai.png" style="width: 25px">Raymond</dt>
                <dd class="col-sm-2"></dd>
                <dt class="col-sm-2">Done:</dt>
-               <dd class="col-sm-9">Research</dd>
+               <dd class="col-sm-9">...</dd>
                <dt class="col-sm-2">To Do:</dt>
-               <dd class="col-sm-9">Create timer</dd>
+               <dd class="col-sm-9">...</dd>
              </dl>
            </li>
           </ul>
@@ -74,4 +74,4 @@ class Update5 extends HTMLElement {
   }
 }
 
-customElements.define('update5-component', Update5);
+customElements.define('update8-component', Update8);
